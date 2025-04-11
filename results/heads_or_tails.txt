@@ -1,0 +1,2 @@
+Score per round: +5, -5, +5, +5, -5
+Final score: 5

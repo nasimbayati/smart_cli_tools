@@ -1,0 +1,36 @@
+{
+    "total_savings": 2.048,
+    "final_price": 39.422,
+    "items": [
+        {
+            "item": 1,
+            "price": 2.5,
+            "discount": 10.0,
+            "savings": 0.25
+        },
+        {
+            "item": 2,
+            "price": 5.0,
+            "discount": 0.0,
+            "savings": 0.0
+        },
+        {
+            "item": 3,
+            "price": 6.99,
+            "discount": 10.0,
+            "savings": 0.6990000000000001
+        },
+        {
+            "item": 4,
+            "price": 10.99,
+            "discount": 10.0,
+            "savings": 1.099
+        },
+        {
+            "item": 5,
+            "price": 15.99,
+            "discount": 0.0,
+            "savings": 0.0
+        }
+    ]
+}
